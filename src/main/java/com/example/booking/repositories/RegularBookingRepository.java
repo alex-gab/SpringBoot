@@ -1,4 +1,6 @@
-package com.example.booking;
+package com.example.booking.repositories;
+
+import com.example.booking.domain.Booking;
 
 import java.util.ArrayList;
 import java.util.Collection;

@@ -1,5 +1,6 @@
-package com.example.booking;
+package com.example.booking.domain;
 
+import com.example.booking.repositories.BookingRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
